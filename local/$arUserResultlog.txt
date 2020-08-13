@@ -1,0 +1,984 @@
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 
+    [PAY_SYSTEM_ID] => 
+    [DELIVERY_ID] => 
+    [ORDER_PROP] => Array
+        (
+            [1] => 
+            [2] => 
+            [3] => 
+            [4] => 101000
+            [6] => 0000073738
+            [7] => 
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 
+    [PROFILE_CHANGE] => 
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => N
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 1
+    [PAY_SYSTEM_ID] => 5
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => 
+            [2] => 
+            [3] => 
+            [4] => 101000
+            [6] => 0000073738
+            [7] => 
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 
+    [PROFILE_CHANGE] => N
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => N
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 1
+    [PAY_SYSTEM_ID] => 5
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => Тестовый заказ - Рассказов Алексей
+            [2] => tesT@testtest.test
+            [3] => 77777777777
+            [4] => 101000
+            [6] => 0000073738
+            [7] => g
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 
+    [PROFILE_CHANGE] => N
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => N
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 
+    [PAY_SYSTEM_ID] => 1
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => Александр Барабаш
+            [2] => kia575ya@yandex.ru
+            [3] => 2345353
+            [4] => 101000
+            [6] => 0000073738
+            [5] => Москва
+            [7] => 111
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 1
+    [PROFILE_CHANGE] => 
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => Y
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+    [DELIVERY_EXTRA_SERVICES] => Array
+        (
+            [2] => Array
+                (
+                )
+
+        )
+
+    [LAST_ORDER_DATA] => Array
+        (
+            [PERSON_TYPE_ID] => 1
+            [PAY_SYSTEM_ID] => 1
+            [DELIVERY_ID] => 2
+            [DELIVERY_EXTRA_SERVICES] => Array
+                (
+                    [2] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 1
+    [PAY_SYSTEM_ID] => 1
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => Александр Барабаш
+            [2] => kia575ya@yandex.ru
+            [3] => 2345353
+            [4] => 101000
+            [6] => 0000073738
+            [7] => 111
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 1
+    [PROFILE_CHANGE] => N
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => Y
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 
+    [PAY_SYSTEM_ID] => 1
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => Александр Барабаш
+            [2] => kia575ya@yandex.ru
+            [3] => 2345353
+            [4] => 101000
+            [6] => 0000073738
+            [5] => Москва
+            [7] => 111
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 1
+    [PROFILE_CHANGE] => 
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => Y
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+    [DELIVERY_EXTRA_SERVICES] => Array
+        (
+            [2] => Array
+                (
+                )
+
+        )
+
+    [LAST_ORDER_DATA] => Array
+        (
+            [PERSON_TYPE_ID] => 1
+            [PAY_SYSTEM_ID] => 1
+            [DELIVERY_ID] => 2
+            [DELIVERY_EXTRA_SERVICES] => Array
+                (
+                    [2] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 1
+    [PAY_SYSTEM_ID] => 3
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => Александр Барабаш
+            [2] => kia575ya@yandex.ru
+            [3] => 2345353
+            [4] => 101000
+            [6] => 0000073738
+            [7] => 111
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 1
+    [PROFILE_CHANGE] => N
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => Y
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 1
+    [PAY_SYSTEM_ID] => 3
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => Александр Барабаш
+            [2] => kia575ya@yandex.ru
+            [3] => 2345353
+            [4] => 101000
+            [6] => 0000073738
+            [7] => 111
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 1
+    [PROFILE_CHANGE] => N
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => Y
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 
+    [PAY_SYSTEM_ID] => 
+    [DELIVERY_ID] => 
+    [ORDER_PROP] => Array
+        (
+            [1] => 
+            [2] => 
+            [3] => 
+            [4] => 101000
+            [6] => 0000073738
+            [7] => 
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 
+    [PROFILE_CHANGE] => 
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => N
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 1
+    [PAY_SYSTEM_ID] => 3
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => gdfrfvc
+            [2] => bfbfc@ad.qw
+            [3] => 13132
+            [4] => 101000
+            [6] => 0000073738
+            [7] => 13123
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 
+    [PROFILE_CHANGE] => N
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => N
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 
+    [PAY_SYSTEM_ID] => 
+    [DELIVERY_ID] => 
+    [ORDER_PROP] => Array
+        (
+            [1] => 
+            [2] => 
+            [3] => 
+            [4] => 101000
+            [6] => 0000073738
+            [7] => 
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 
+    [PROFILE_CHANGE] => 
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => N
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 1
+    [PAY_SYSTEM_ID] => 3
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => aaa
+            [2] => sdf@sadf.sdf
+            [3] => 2222222
+            [4] => 101000
+            [6] => 0000073738
+            [7] => aaaaaaa
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 
+    [PROFILE_CHANGE] => N
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => N
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 
+    [PAY_SYSTEM_ID] => 3
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => Александр Барабаш
+            [2] => kia575ya@yandex.ru
+            [3] => 2345353
+            [4] => 101000
+            [6] => 0000073738
+            [5] => Москва
+            [7] => 111
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 1
+    [PROFILE_CHANGE] => 
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => Y
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+    [DELIVERY_EXTRA_SERVICES] => Array
+        (
+            [2] => Array
+                (
+                )
+
+        )
+
+    [LAST_ORDER_DATA] => Array
+        (
+            [PERSON_TYPE_ID] => 1
+            [PAY_SYSTEM_ID] => 3
+            [DELIVERY_ID] => 2
+            [DELIVERY_EXTRA_SERVICES] => Array
+                (
+                    [2] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 1
+    [PAY_SYSTEM_ID] => 3
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => Александр Барабаш
+            [2] => kia575ya@yandex.ru
+            [3] => 2345353
+            [4] => 101000
+            [6] => 0000073738
+            [7] => 111
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 1
+    [PROFILE_CHANGE] => N
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => Y
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 
+    [PAY_SYSTEM_ID] => 3
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => Александр Барабаш
+            [2] => kia575ya@yandex.ru
+            [3] => 2345353
+            [4] => 101000
+            [6] => 0000073738
+            [5] => Москва
+            [7] => 111
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 1
+    [PROFILE_CHANGE] => 
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => Y
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+    [DELIVERY_EXTRA_SERVICES] => Array
+        (
+            [2] => Array
+                (
+                )
+
+        )
+
+    [LAST_ORDER_DATA] => Array
+        (
+            [PERSON_TYPE_ID] => 1
+            [PAY_SYSTEM_ID] => 3
+            [DELIVERY_ID] => 2
+            [DELIVERY_EXTRA_SERVICES] => Array
+                (
+                    [2] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 1
+    [PAY_SYSTEM_ID] => 3
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => Александр Барабаш
+            [2] => kia575ya@yandex.ru
+            [3] => 2345353
+            [4] => 101000
+            [6] => 0000073738
+            [7] => 111
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 1
+    [PROFILE_CHANGE] => N
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => Y
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 
+    [PAY_SYSTEM_ID] => 3
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => Александр Барабаш
+            [2] => kia575ya@yandex.ru
+            [3] => 2345353
+            [4] => 101000
+            [6] => 0000073738
+            [5] => Москва
+            [7] => 111
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 1
+    [PROFILE_CHANGE] => 
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => Y
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+    [DELIVERY_EXTRA_SERVICES] => Array
+        (
+            [2] => Array
+                (
+                )
+
+        )
+
+    [LAST_ORDER_DATA] => Array
+        (
+            [PERSON_TYPE_ID] => 1
+            [PAY_SYSTEM_ID] => 3
+            [DELIVERY_ID] => 2
+            [DELIVERY_EXTRA_SERVICES] => Array
+                (
+                    [2] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 1
+    [PAY_SYSTEM_ID] => 3
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => Александр Барабаш
+            [2] => kia575ya@yandex.ru
+            [3] => 2345353
+            [4] => 101000
+            [6] => 0000073738
+            [7] => 111
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 1
+    [PROFILE_CHANGE] => N
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => Y
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 
+    [PAY_SYSTEM_ID] => 
+    [DELIVERY_ID] => 
+    [ORDER_PROP] => Array
+        (
+            [1] => 
+            [2] => 
+            [3] => 
+            [4] => 101000
+            [6] => 0000073738
+            [7] => 
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 
+    [PROFILE_CHANGE] => 
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => N
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 1
+    [PAY_SYSTEM_ID] => 3
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => 
+            [2] => 
+            [3] => 
+            [4] => 101000
+            [6] => 0000073738
+            [7] => 
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 
+    [PROFILE_CHANGE] => N
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => N
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 1
+    [PAY_SYSTEM_ID] => 4
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => 
+            [2] => 
+            [3] => 
+            [4] => 101000
+            [6] => 0000073738
+            [7] => 
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 
+    [PROFILE_CHANGE] => N
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => N
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 1
+    [PAY_SYSTEM_ID] => 4
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => sdfsdffsdefsd
+            [2] => sdf@sadf.sdf
+            [3] => 222222
+            [4] => 101000
+            [6] => 0000073738
+            [7] => seasfddsfsdfsdf
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 
+    [PROFILE_CHANGE] => N
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => N
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 
+    [PAY_SYSTEM_ID] => 4
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => sdfsdffsdefsd
+            [2] => sdf@sadf.sdf
+            [3] => 222222
+            [4] => 101000
+            [6] => 0000073738
+            [5] => Москва
+            [7] => seasfddsfsdfsdf
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 5
+    [PROFILE_CHANGE] => 
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => Y
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+    [DELIVERY_EXTRA_SERVICES] => Array
+        (
+            [2] => Array
+                (
+                )
+
+        )
+
+    [LAST_ORDER_DATA] => Array
+        (
+            [PERSON_TYPE_ID] => 1
+            [PAY_SYSTEM_ID] => 4
+            [DELIVERY_ID] => 2
+            [DELIVERY_EXTRA_SERVICES] => Array
+                (
+                    [2] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [PERSON_TYPE_ID] => 1
+    [PERSON_TYPE_OLD] => 1
+    [PAY_SYSTEM_ID] => 4
+    [DELIVERY_ID] => 2
+    [ORDER_PROP] => Array
+        (
+            [1] => sdfsdffsdefsd
+            [2] => sdf@sadf.sdf
+            [3] => 222222
+            [4] => 101000
+            [6] => 0000073738
+            [7] => seasfddsfsdfsdf
+        )
+
+    [DELIVERY_LOCATION] => 
+    [TAX_LOCATION] => 
+    [PAYER_NAME] => 
+    [USER_EMAIL] => 
+    [PROFILE_NAME] => 
+    [PAY_CURRENT_ACCOUNT] => 
+    [CONFIRM_ORDER] => 
+    [FINAL_STEP] => 
+    [ORDER_DESCRIPTION] => 
+    [PROFILE_ID] => 5
+    [PROFILE_CHANGE] => N
+    [DELIVERY_LOCATION_ZIP] => 
+    [ZIP_PROPERTY_CHANGED] => Y
+    [QUANTITY_LIST] => Array
+        (
+        )
+
+    [USE_PRELOAD] => 1
+)

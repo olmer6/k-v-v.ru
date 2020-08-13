@@ -1,0 +1,5 @@
+<?
+$MESS["RUSKLIMAT_B2C_NAME"] = "Модуль Rusklimat.B2C";
+$MESS["RUSKLIMAT_B2C_MODULE_DESCRIPTION"] = "";
+$MESS["RUSKLIMAT_B2C_PARTNER_NAME"] = "Русклимат B2C";
+$MESS["RUSKLIMAT_B2C_PARTNER_URL"] = "http://rusklimat.ru";

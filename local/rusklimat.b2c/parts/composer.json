@@ -1,0 +1,23 @@
+{
+  "name": "rusklimatB2cParts",
+  "description": "Classes of tasks for rusklimat",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dmitriy Kadrichev",
+      "email": "kadrichev_d@rusklimat.ru"
+    }
+  ],
+  "require": {
+    "php": ">= 5.6.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Rusklimat\\B2c\\Parts\\": "lib/"
+    }
+  },
+  "repositories": [
+    {"packagist.org": false}
+  ]
+}
